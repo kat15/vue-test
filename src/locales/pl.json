@@ -1,0 +1,15 @@
+{
+  "login": "Login",
+  "loginButton": "Zaloguj się",
+  "password": "Hasło",
+  "menu": {
+    "Dashboard": "Dashboard"
+  },
+  "users": {
+    "email": "Adres e-mail",
+    "firstName": "Imię",
+    "id": "ID",
+    "lastName": "Nazwisko",
+    "username": "Login"
+  }
+}

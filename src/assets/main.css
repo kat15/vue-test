@@ -1,0 +1,6 @@
+@import "@flaticon/flaticon-uicons/css/all/all.css";
+
+body {
+    background: url("/background.jpg") no-repeat, no-repeat;
+    background-size: cover;
+}
